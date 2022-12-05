@@ -1,7 +1,7 @@
 - <h1> PyCrud 📝
     <h3>Api CRUD in python deployed in Azure.
      
-- <h2> Technologies used:
+- <h2> What was used:
   
     <h3> Python 🐍
     <h3> OOP 🏛️
