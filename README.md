@@ -7,7 +7,7 @@
     <h3> OOP 🏛️
     <h3> Azure Function⚡
   
-- <h2> Example:
+- <h2> Examples:
 ![alt text](https://github.com/antoniofariass/PyCrud/blob/76c2d1165de116eff65594e02633f69f7a6716eb/images/post.png)
 ![alt text](https://github.com/antoniofariass/PyCrud/blob/76c2d1165de116eff65594e02633f69f7a6716eb/images/GET.png)
 ![alt text](https://github.com/antoniofariass/PyCrud/blob/76c2d1165de116eff65594e02633f69f7a6716eb/images/GET_2.png)
