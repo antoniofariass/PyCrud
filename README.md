@@ -14,7 +14,7 @@ $ func host start
 
 ```
 
-To run this application in your insonia with my code deployed in Azure, use the nexts endpoint: 
+To run this application on insonia with my code deployed in Azure, use the nexts endpoints: 
 
 ```bash
   
