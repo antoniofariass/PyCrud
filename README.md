@@ -35,8 +35,8 @@ To run this application in your insonia with my code deployed in Azure, use the 
   update_user: https://pycrud.azurewebsites.net/api/users/the
       # Use this json body on request: 
       {
-      "name":"Marcelo",
-      "age": 40,
-      "city": "São Jose dos Campos"
+      "name":"",
+      "age": ,
+      "city": ""
       }
 ```
