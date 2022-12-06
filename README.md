@@ -35,7 +35,7 @@ To run this application on insonia with my code deployed in Azure, use the nexts
 ```bash
   
   create_user: https://pycrud.azurewebsites.net/api/create_user
-        # Use the json body on request:
+        # Use this json body on request:
         {
         "id" : "",
         "name":"",
