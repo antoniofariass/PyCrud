@@ -1,5 +1,5 @@
 - <h1> PyCrud 📝
-    <h3>Api CRUD in python deployed in Azure.
+    <h3>Api CRUD python deployed in Azure.
      
 - <h2> What was used:
   
